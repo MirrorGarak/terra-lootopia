@@ -109,6 +109,9 @@ Here is a set from the marketplace:
 
 [https://randomearth.io/collections/terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x](https://randomearth.io/collections/terra1gx478xey87dq3dz2sfdt6rfcd0snqpj83ypd3x)
 
+[https://tinyurl.com/LootopiansRarityGuide](https://t.co/bQWFPipcOx)
+
+
 
 ## Spacepets
 
