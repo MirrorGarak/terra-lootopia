@@ -101,7 +101,7 @@ Lootopian items have a mint date and a quality trait. The quality goes like this
  - **Mythic**
  - **Legendary**
 
-Total supply: 5600
+Total supply: 5600 but constantly growing with new mints :)
 
 Here is a set from the marketplace:
 
@@ -126,4 +126,4 @@ Total supply: 3200
 
 **Marketplace**:
 
-Not available yet on marketplace!
+[https://terrafloki.io/marketplace/](https://terrafloki.io/marketplace/)Not available yet on marketplace!
