@@ -94,12 +94,12 @@ Here are a few:
 
 Lootopian items have a mint date and a quality trait. The quality goes like this:
 
- - **Common**  a must have in civilized societies
- - **Uncommon**  do you have hands or tentacles?
- - **Rare**  are you an athlete or a religious leader?
- - **Epic**  seems to be your driving force, immortality is quite popular I hear
- - **Mythic**  where you really shine..
- - **Legendary**  hold my beer!
+ - **Common**
+ - **Uncommon**
+ - **Rare**
+ - **Epic**
+ - **Mythic**
+ - **Legendary**
 
 Total supply: 5600
 
