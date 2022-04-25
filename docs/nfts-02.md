@@ -87,6 +87,8 @@ Here are a few:
 [https://knowhere.art/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm](https://knowhere.art/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm)</br>
 [https://randomearth.io/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm](https://randomearth.io/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm)
 
+[https://tinyurl.com/LootopiansRarityGuide](https://t.co/bQWFPipcOx)
+
 
 ## Lootopian Items
 
@@ -103,7 +105,7 @@ Total supply: 5600
 
 Here is a set from the marketplace:
 
-![character_sheet](/images/lootopian_spec_forces.jpg)
+![character_sheet](/images/items_worn.jpg)
 
 **Marketplace**:
 
