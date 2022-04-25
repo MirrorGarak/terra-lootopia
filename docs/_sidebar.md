@@ -1,10 +1,7 @@
 - **Lootopia**
   - [What is Lootopia?](lootopia-01)
   - [Space Dollar - The Society](sdollar-01)
-  - [Lootopia NFTs](lootopia-nfts-01)
-  - [Roadmap](roadmap)
-  - [Team](team)
-  - [Voting results](votes)
+  - [Lootopia NFTs](nfts-01)
 - **Project Info**
   - [GitHub Repository](https://github.com/hibbitts-design/docsify-open-course-starter-kit/)
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/README.md)
