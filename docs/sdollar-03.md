@@ -17,6 +17,7 @@ There are to ways to become members:
  - [SDOLLAR token](https://terrasco.pe/mainnet/token/terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq)
  - [SDOLLAR contract](https://terrasco.pe/mainnet/contract/terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq)
  - [SDOLLAR holders](https://tokens.daic.capital/?contract=terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq)
+ - [SDOLLAR on Coinhall](https://coinhall.org/charts/terra/terra18lvan2ywhr40ql7tt6t40ck6vx4hlh0xamtqpm)
 
 ## How to Join The Society
 
@@ -36,7 +37,7 @@ The general steps are as follows:
 2. Purchase native Luna or UST on these exchanges.
 3. Withdraw the Luna or UST to your Terra wallet address to have custody over your funds.
 
-For the first two points please **refer to respectable online guides**. Research the topic before you jump in, such as what are the financial/tax legalities depending on your country. [TerraBites Podcast](https://www.youtube.com/watch?v=zCpsyNtR05I) is a good place to start, but **do your own research**. [CoinBureau](https://www.youtube.com/c/CoinBureau) on Youtube is a respectable channel to start learning about crypto in general, Godspeed!
+> For the first two points please **refer to respectable online guides**. Research the topic before you jump in, such as what are the financial/tax legalities depending on your country. [TerraBites Podcast](https://www.youtube.com/watch?v=zCpsyNtR05I) is a good place to start, but **do your own research**. [CoinBureau](https://www.youtube.com/c/CoinBureau) on Youtube is a respectable channel to start learning about crypto in general, Godspeed!
 
 For creating the wallet, you can follow the official documentation of Terra: [Terra Docs](https://docs.terra.money/index.html).
 
@@ -80,6 +81,8 @@ So far there has been two farming events, awarding SpacePets (ended) and Lootopi
 Visit the TerraFloki launchpad to begin:
 
 ![Farm tickets with LLP](https://terrafloki.io/launchpad/tickets/stakelp)
+
+> Note: for one full ticket you can mint one NFT after the farming period is over.
 
 ## Verify on our Discord
 

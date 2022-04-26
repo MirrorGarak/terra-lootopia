@@ -126,4 +126,4 @@ Total supply: 3200
 
 **Marketplace**:
 
-[https://terrafloki.io/marketplace/](https://terrafloki.io/marketplace/)Not available yet on marketplace!
+[https://terrafloki.io/marketplace/](https://terrafloki.io/marketplace/)
