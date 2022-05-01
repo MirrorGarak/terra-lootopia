@@ -75,7 +75,6 @@ Lootopians are avatars representing you in the metaverse. They have stats and yo
  - **Dexterity**
 
 
-
 Total supply: 1000
 
 Here are a few:
@@ -86,6 +85,8 @@ Here are a few:
 
 [https://knowhere.art/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm](https://knowhere.art/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm)</br>
 [https://randomearth.io/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm](https://randomearth.io/collections/terra1tehe2e4ufa9n0xeef4wxvfvhncjyzetlp404wm)
+
+**Rarity guide**
 
 [https://tinyurl.com/LootopiansRarityGuide](https://t.co/bQWFPipcOx)
 
@@ -132,6 +133,17 @@ Click the **Launchpad** on the left: [https://terrafloki.io/marketplace/](https:
 
 SpaceLoot are text representations of spaceships.
 
+**Traits**
+
+ - **Vessel**
+ - **Class**
+ - **Weapon**
+ - **Secondary weapon**
+ - **Shield**
+ - **Propulsion**
+ - **Material**
+ - **Extra**
+
 Total supply: 8001
 
 ![sl_2597_text](images/sl_2597_text.jpg)
@@ -143,3 +155,7 @@ Total supply: 8001
 **Marketplace**:
 
 [https://knowhere.art/collections/terra13qrc9j00lk3x0rvpptzdmwtckfj64d5g6xnrv9](https://knowhere.art/collections/terra13qrc9j00lk3x0rvpptzdmwtckfj64d5g6xnrv9)
+
+**Rarity guide**
+
+[SpaceLoot rarity](https://app.appsmith.com/applications/615055e218a27e5288afae00/pages/6189ab64799de8559acc56d4)
