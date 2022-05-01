@@ -22,12 +22,14 @@ In the coming months people gathered around this fact and the DAO (The Society) 
 
 > There is no Lootopia without SpaceLoot.
 </br>
-SpaceLoot was the first NFT minted on the Terra network in early September, released on the team's later to be marketplace, Knowhere.art! They were so early (before Columbus-05), that the CW721 standard didn't exist yet. That is why you don't see SpaceLoots listed on other marketplaces, a wrapper contract would be required for compatibility.
+SpaceLoot was the first NFT minted on the Terra network in early September, released on the team's later to be marketplace, Knowhere.art! They were so early (before Columbus-05), that the CW721 standard didn't exist yet. That is why you don't see SpaceLoot listed on other marketplaces, a wrapper contract would be required for compatibility.
 </br>
 
 There are 8001 text representations of spaceships, with the option to mint a 2D image of it. Currently you can stake a maximum of four of your ships to receive scraps(90%) and terranite(10%) every 24 hours. This material is intended to be used for upgrading ships and crafting items.
 
-> SpaceLoot #2597
+> Since the Knowhere.art team is mostly focusing on their marketplace, The Society inherited the task of building on top of their legacy, which we welcomed :)
+
+**SpaceLoot #2597**
 
 ![sl_2597_text](images/sl_2597_text.jpg)
 ![sl_2597_ship](images/sl_2597_ship.jpg)
@@ -37,7 +39,7 @@ There are 8001 text representations of spaceships, with the option to mint a 2D 
 ![sl_2597_ship](images/sl_spacestation.jpg) 
 
 Visit Knowhere.art collection: [https://knowhere.art/collections/terra13qrc9j00lk3x0rvpptzdmwtckfj64d5g6xnrv9](https://knowhere.art/collections/terra13qrc9j00lk3x0rvpptzdmwtckfj64d5g6xnrv9)</br>
-Check out the official SpaceLoot website: [SpaceLoot.xyz](https://spaceloot.xyz)  
+Check out the official SpaceLoot website: [https://spaceloot.xyz](https://spaceloot.xyz)
 
 ## Partnership with TerraFloki 
 
@@ -65,4 +67,14 @@ There has been two farming events so far:
 
 > You can decide to finish farming, and take out your liquidity any time, there is no lockup period.
 
-More information on the TerraFloki website: [TerraFloki.io](https://terrafloki.io)
+More information on the TerraFloki website: [https://terrafloki.io](https://terrafloki.io)
+
+## Collab with Stargazers
+
+The Stargazers team consists of 3 Cosmos network enthusiasts. They say this about themselves:
+
+"With all the in-fighting going in the Cosmoverse we want to unite the banners of the ecosystem and help bring together the communities! Our focus is creating a collection of generative NFT banners designed to celebrate and promote the Cosmos ecosystem!"
+
+We also appreciate the Cosmos SDK, and think interoperability between chains is natural evolution of blockchains. We believe our ideas and work is stronger as a group of projects than individual ones fighting for the top. Therefore we appreciated it greatly, when they created a 1/1 custom NFT for us as part of their collection, this is the banner you see on this site!
+
+Check out their website: [https://www.stargazersnfts.io/](https://www.stargazersnfts.io/)

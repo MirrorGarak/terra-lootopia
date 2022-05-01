@@ -126,4 +126,20 @@ Total supply: 3200
 
 **Marketplace**:
 
-[https://terrafloki.io/marketplace/](https://terrafloki.io/marketplace/)
+Click the **Launchpad** on the left: [https://terrafloki.io/marketplace/](https://terrafloki.io/marketplace/)
+
+## SpaceLoot
+
+SpaceLoot are text representations of spaceships.
+
+Total supply: 8001
+
+![sl_2597_text](images/sl_2597_text.jpg)
+
+**2D art can be minted for your ships, here is how #2597 turned out:**
+
+![sl_2597_ship](images/sl_2597_ship.jpg)
+
+**Marketplace**:
+
+[https://knowhere.art/collections/terra13qrc9j00lk3x0rvpptzdmwtckfj64d5g6xnrv9](https://knowhere.art/collections/terra13qrc9j00lk3x0rvpptzdmwtckfj64d5g6xnrv9)
