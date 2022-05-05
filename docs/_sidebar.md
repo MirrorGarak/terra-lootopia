@@ -1,7 +1,10 @@
 - **Lootopia**
-  - [What is Lootopia?](lootopia-01)
-  - [Space Dollar - The Society](sdollar-01)
+  - [Our History](lootopia-01)
   - [Lootopia NFTs](nfts-01)
+  - [Guides](guides-01)
+  - [Quicklinks](quicklinks-01)
+  - [FAQ](faq-01)
+
 - **Project Info**
   - [GitHub Repository](https://github.com/hibbitts-design/docsify-open-course-starter-kit/)
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/README.md)

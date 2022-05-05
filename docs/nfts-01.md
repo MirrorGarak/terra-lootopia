@@ -146,6 +146,8 @@ SpaceLoot are text representations of spaceships.
 
 Total supply: 8001
 
+**#2597**
+
 ![sl_2597_text](images/sl_2597_text.jpg)
 
 **2D art can be minted for your ships, here is how #2597 turned out:**
@@ -159,3 +161,19 @@ Total supply: 8001
 **Rarity guide**
 
 [SpaceLoot rarity](https://app.appsmith.com/applications/615055e218a27e5288afae00/pages/6189ab64799de8559acc56d4)
+
+
+## SpaceLoot Staking
+
+You can stake one to four of your SpaceLoots to receive either **Scraps** or the more rare **Terranite** ore daily! Although exact utility is not yet defined, rest assured it will be used for crafting, upgrades, repairs, and so on :) You have 10% chance of hitting Terranite and 90% for Scraps for each of your staked ship.
+
+![sl_staking_rewards](/images/scrap_terranite.jpg)
+
+Use the v2 staking site on [Knowhere.art](https://v2.knowhere.art/metaverse/terra13qrc9j00lk3x0rvpptzdmwtckfj64d5g6xnrv9/staking) to stake your ships. 
+
+> Unfortunately the fee for claiming the rewards is quite hefty if you do it on KA! However there is a workaround.. Follow our [guide](linktoguide) to shrink that fee to 1/10th of the original cost, to around 0.07 UST per transaction!
+
+> Staking was meant to be for a limited time only, once you will be able to send ships on missions, the current form of staking will end.
+
+
+
