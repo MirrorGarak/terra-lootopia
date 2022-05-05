@@ -117,16 +117,16 @@ If you have you SDOLLAR-UST LP tokens, follow these steps:
 1. Visit the [TerraFloki launchpad](https://terrafloki.io/launchpad/tickets/stakelp).
 2. Under 'Stakeable' you must see your available LP tokens.
 
-![Available_LPs](/images/farm1.jpg)
+![Available_LPs](/images/farm_1.jpg)
 
 3. Specify the amount you would like to stake. You can hit 'Max' to stake all your LP tokens.
 
-![Specify_LP_to_lock](/images/farm2.jpg)
+![Specify_LP_to_lock](/images/farm_2.jpg)
 
 4. The 'Stake SDOLLAR LLP' button became active, click it and sign the transaction in the popup!
 5. Once the transaction is finished, you will see your staked amount and you are already earning tickets.
 
-![See_staked_LLPs](/images/farm3.jpg)
+![See_staked_LLPs](/images/farm_3.jpg)
 
 > **Note:** for one full ticket you can mint one NFT after the farming period is over.
 
